@@ -1,0 +1,3 @@
+requests
+
+key_dorks =  AIzaSyA2Vv31_BVatDgATqPht881-WfslXKvCyk 
